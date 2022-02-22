@@ -6,4 +6,4 @@ Ejemplos de Listas, Mapas, Funciones, Clases y Herencia
 - [ ] [Funciones varias](https://dartpad.dartlang.org/)
 - [ ] [Funcion fecha](https://dartpad.dartlang.org/)
 - [ ] [Clases](https://dartpad.dartlang.org/)
-- [ ] [Herencia](https://dartpad.dartlang.org/)
+- [ ] [Herencia](https://dartpad.dartlang.org/1c7d7e77297602a7d3ba4f74efc25b2b)
